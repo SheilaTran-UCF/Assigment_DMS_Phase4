@@ -1,4 +1,8 @@
 # Employee Tracker - DMS Phase 4 (Spring Boot + SQLite)
+📎 Author
+Minh Tran
+Module 10: DMS Phase 4
+
 
 This is a **Data Management System (DMS) Project - Phase 4** for the course **CEN 3024C**. The application allows users to **perform full CRUD operations** on employee records via a **GUI**, with all data persisted in a **SQLite database**.
 
@@ -106,10 +110,6 @@ No login/authentication is required.
 
 You can test all CRUD + Custom feature through the GUI.
 
-📎 Author
-Minh Tran
-CEN 3024C - Valencia College
-Module 10: DMS Phase 4
 
 
 
