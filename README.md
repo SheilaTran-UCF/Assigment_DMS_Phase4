@@ -91,7 +91,7 @@ Tenure Report groups employees into:
 5+ years
 
 You can access it at:
-http://localhost:8080/tenure</br>
+http://localhost:8080/tenure
 
 ⚠️ Notes
 ❌ Do not hardcode any database file path. It's dynamically collected via terminal prompt.</br>
