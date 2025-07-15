@@ -87,20 +87,17 @@ Tenure Report groups employees into:
 5+ years
 
 You can access it at:
-
-bash
-Copy
-Edit
 http://localhost:8080/tenure
+</br>
 ⚠️ Notes
-❌ Do not hardcode any database file path. It's dynamically collected via terminal prompt.
+❌ Do not hardcode any database file path. It's dynamically collected via terminal prompt.</br>
 
-✅ Input validation ensures invalid or empty fields cannot crash the app.
+✅ Input validation ensures invalid or empty fields cannot crash the app.</br>
 
-💾 Changes made via GUI are immediately stored in the database.
+💾 Changes made via GUI are immediately stored in the database.</br>
 
 📸 Screenshots (Optional)
-Add here if needed: employee form, list, and tenure report views.
+Add here if needed: employee form, list, and tenure report views.</br>
 
 👨‍🏫 Instructor Notes
 Please test using the sample dms.db file provided.
